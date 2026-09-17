@@ -14,6 +14,9 @@ test_embeddings = model.encode(test_name_prompts)
 
 print("Embeddings created successfully:")
 
+# --------------------------------------------------------------------------------------------------------------
+
+
 from scipy.spatial.distance import cosine
 from openai import OpenAI
 
