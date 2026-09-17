@@ -5,7 +5,7 @@ import time
 
 client = OpenAI(api_key="[iLOVEpython]")
 
-base_path = "/content/drive/MyDrive/LLM project/code/fei_codes (1)"  # Change to your real base path
+base_path = "/content/drive/MyDrive/file"  # Change to your real base path
 
 results = []
 MAX_LENGTH = 10000  # Character limit for prompt content
