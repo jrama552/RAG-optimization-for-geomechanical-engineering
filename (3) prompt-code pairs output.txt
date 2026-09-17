@@ -1,0 +1,10 @@
+Processing project: HardContact_ElPPlShear
+Generated prompt for 'HardContact_ElPPlShear':
+"Write an FEI code sequence for a project named 'HardContact_ElPPlShear'. The simulation involves the Real ESSI Simulator and includes modeling and simulation examples. The main model is named 'Monotonic_Contact_Behaviour' with an acceleration field. Add nodes and apply constraints to the degrees of freedom. Define two materials using the linear elastic isotropic 3D model and the uniaxial elastic model. Apply these materials to different elements including an 8 node brick and truss elements. Define a hard contact element with an elastic perfectly plastic shear model. Further, include two loading stages called 'Adding_Normal_Load' and 'Adding_Tangential_Load' with assigned loads. For each stage, specify the steps, tolerance, and algorithms to use in the simulation. Finally, close the simulation with 'bye'."
+
+.
+.
+.
+
+
+All prompts and files saved to fei_project_prompts.json
